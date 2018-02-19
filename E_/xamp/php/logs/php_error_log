@@ -1,0 +1,300 @@
+[26-Jan-2018 03:03:27 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:27 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:27 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:27 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:29 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:29 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:29 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:29 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/addstudent.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:31 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:31 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:31 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:31 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/attendenceview.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:33 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:33 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:33 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:33 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:35 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:35 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:35 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:35 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:37 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:37 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:37 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:37 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:39 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:39 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:39 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:39 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[26-Jan-2018 03:03:41 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:41 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[26-Jan-2018 03:03:41 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:41 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[26-Jan-2018 03:03:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[30-Jan-2018 10:43:15 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[30-Jan-2018 10:43:15 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[30-Jan-2018 10:43:15 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[30-Jan-2018 10:43:15 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[30-Jan-2018 10:43:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:30:39 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:30:39 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:30:39 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:30:39 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:30:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:01 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:01 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:01 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:01 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/addstudent.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:02 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:02 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:02 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:02 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/attendenceview.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:04 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:04 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:04 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:04 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:12 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:12 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:12 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:12 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:17 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:17 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:17 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:17 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:18 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:18 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:18 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:18 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[08-Feb-2018 01:31:20 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:20 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[08-Feb-2018 01:31:20 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:20 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[08-Feb-2018 01:31:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:07 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:07 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:07 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:07 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:09 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:09 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:09 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:09 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/addstudent.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:10 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:10 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:10 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:10 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/attendenceview.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:24 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:24 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:24 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:24 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/index.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:26 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:26 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:26 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:26 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:31 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:31 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:31 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:31 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:32 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:32 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:32 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:32 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
+[15-Feb-2018 21:50:34 Europe/Berlin] PHP Warning:  include_once(/home/webepjfl/public_html/student_attendence/lib/../lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:34 Europe/Berlin] PHP Warning:  include_once(): Failed opening '/home/webepjfl/public_html/student_attendence/lib/../lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/classes/student.php on line 4
+[15-Feb-2018 21:50:34 Europe/Berlin] PHP Warning:  include_once(lib/session.php): failed to open stream: No such file or directory in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:34 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'lib/session.php' for inclusion (include_path='E:\xamp\php\PEAR') in /home/webepjfl/public_html/student_attendence/inc/header.php on line 4
+[15-Feb-2018 21:50:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/webepjfl/public_html/student_attendence/lib/Database.php:19
+Stack trace:
+#0 /home/webepjfl/public_html/student_attendence/lib/Database.php(15): Database->connectDB()
+#1 /home/webepjfl/public_html/student_attendence/classes/student.php(15): Database->__construct()
+#2 /home/webepjfl/public_html/student_attendence/inc/header.php(6): student->__construct()
+#3 /home/webepjfl/public_html/student_attendence/view_student_attendence.php(1): include('/home/webepjfl/...')
+#4 {main}
+  thrown in /home/webepjfl/public_html/student_attendence/lib/Database.php on line 19
